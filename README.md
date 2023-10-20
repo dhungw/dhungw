@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Dhungw  - Nickname: Dhungw
-Gender: Male
-Occupation: -
-Hobbies: Traveling, photography, technology, learning programming
-Career goal: -
-Personal slogan: -
+<p>I'm Dhungw  - Nickname: Dhungw</p>
+<p>Gender: Male</p>
+<p>Occupation: -</p>
+<p>Hobbies: Traveling, photography, technology, learning programming</p>
+<p>Career goal: -</p>
+<p>Personal slogan: -</p>
 <!--
 **dhungw/dhungw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
